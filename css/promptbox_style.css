@@ -1,3 +1,43 @@
 body{
-	background-image: url("img/cave_entrance.jpg");
+	background-color: black;
+	margin: 0;
+
 }
+
+
+header{
+	text-align: center;
+	padding:30px 30px;
+	font-family: papyrus;  
+
+}
+
+header h1{
+	color: red;
+	font-size: 70px;
+
+}
+
+header img{
+	border-radius: 300px;
+	width: 600px;
+	border: 2px solid aqua;
+	max-width: 100%;
+
+
+}
+
+main{
+	max-width: 800px;
+	margin: 0 auto;
+}
+
+p{
+	color: green;
+	font-size: 30px;
+}
+a{
+	color: green;
+	font-size: 40px;
+}
+
